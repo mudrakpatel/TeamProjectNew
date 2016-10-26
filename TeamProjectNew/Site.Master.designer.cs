@@ -22,6 +22,15 @@ namespace TeamProjectNew {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
+        /// PublicNavbar control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.PlaceHolder PublicNavbar;
+        
+        /// <summary>
         /// HomeLink control.
         /// </summary>
         /// <remarks>
@@ -56,6 +65,42 @@ namespace TeamProjectNew {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl ContactLink;
+        
+        /// <summary>
+        /// UserNavbar control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.PlaceHolder UserNavbar;
+        
+        /// <summary>
+        /// HomeLink_UserNavbar control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl HomeLink_UserNavbar;
+        
+        /// <summary>
+        /// ContactLink_UserNavbar control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl ContactLink_UserNavbar;
+        
+        /// <summary>
+        /// LogoutLink control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl LogoutLink;
         
         /// <summary>
         /// MainContent control.
