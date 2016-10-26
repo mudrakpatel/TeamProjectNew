@@ -7,13 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TeamProjectNew
-{
-
-
-    public partial class Site
-    {
-
+namespace TeamProjectNew {
+    
+    
+    public partial class Site {
+        
         /// <summary>
         /// form1 control.
         /// </summary>
@@ -22,7 +20,7 @@ namespace TeamProjectNew
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
-
+        
         /// <summary>
         /// HomeLink control.
         /// </summary>
@@ -31,7 +29,7 @@ namespace TeamProjectNew
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl HomeLink;
-
+        
         /// <summary>
         /// LoginLink control.
         /// </summary>
@@ -40,7 +38,16 @@ namespace TeamProjectNew
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl LoginLink;
-
+        
+        /// <summary>
+        /// RegisterLink control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl RegisterLink;
+        
         /// <summary>
         /// ContactLink control.
         /// </summary>
@@ -49,7 +56,7 @@ namespace TeamProjectNew
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl ContactLink;
-
+        
         /// <summary>
         /// MainContent control.
         /// </summary>

@@ -148,6 +148,7 @@
     <Content Include="AllGames\counterStrikePage.aspx" />
     <Content Include="AllGames\fifa17Page.aspx" />
     <Content Include="Login.aspx" />
+    <Content Include="Logout.aspx" />
     <Content Include="packages.config" />
     <Content Include="Register.aspx" />
     <Content Include="Scripts\jquery-2.2.4.min.map" />
@@ -247,6 +248,13 @@
     </Compile>
     <Compile Include="Login.aspx.designer.cs">
       <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Logout.aspx.cs">
+      <DependentUpon>Logout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Logout.aspx.designer.cs">
+      <DependentUpon>Logout.aspx</DependentUpon>
     </Compile>
     <Compile Include="Models\database_firewall_rules.cs" />
     <Compile Include="Models\GameContextAzure.cs" />

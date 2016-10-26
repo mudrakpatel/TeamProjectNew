@@ -23,11 +23,9 @@
                     <asp:TextBox TextMode="Phone" CssClass="form-control" ID="ContactNumberTextBox" runat="server" required="true"></asp:TextBox>
                 </div>
                 <div class="form-group">
-                    <asp:Button Text="Cancel" ID="CancelButton" CssClass="form-control" OnClick="CancelButton_Click" runat="server" />
-                    <asp:Button Text="Send" ID="SendButton" CssClass="form-control" OnClick="SendButton_Click" runat="server" />
+                    <asp:Button Text="Cancel" ID="CancelButton" CssClass="btn btn-primary" OnClick="CancelButton_Click" runat="server" />
+                    <asp:Button Text="Send" ID="SendButton" CssClass="btn btn-primary" OnClick="SendButton_Click" runat="server" />
                 </div>
-
-
             </div>
         </div>
     </div>

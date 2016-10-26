@@ -42,6 +42,7 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li id="HomeLink" runat="server"><a href="Default.aspx"><i class="fa fa-home fa-lg"></i> Home</a></li>
                         <li id="LoginLink" runat="server"><a href="Login.aspx"><i class="fa fa fa-user fa-lg"></i> Login</a></li>
+                        <li id="RegisterLink" runat="server"><a href="Register.aspx"><i class="fa fa-user-plus fa-lg"></i> Register</a></li>
                         <li id="ContactLink" runat="server"><a href="Contact.aspx"><i class="fa fa-phone fa-lg"></i> Contact</a></li>
                     </ul>
                 </div>
